@@ -1,3 +1,5 @@
+
+
 export const cryptoData = {
   result: [
     {
@@ -618,14 +620,14 @@ export const cryptoAssets = [
   },
   {
     id: "ethereum",
-    amount: 5,
+    amount: 2,
     price: 2400,
     date: new Date(),
   },
   {
-    id: "dogecoin",
-    price: 0.076,
-    amount: 10000,
+    id: "litecoin",
+    amount: 0.02,
+    price: 36,
     date: new Date(),
   },
 ];

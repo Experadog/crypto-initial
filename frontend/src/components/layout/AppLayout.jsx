@@ -22,6 +22,3 @@ export function AppLayout() {
     </Layout>
   );
 }
-
-
-// https://youtu.be/S4HOy6yTclU?t=4143
